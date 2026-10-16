@@ -15,7 +15,10 @@ Choose the download for your operating system. Windows is recommended for the Ox
 ## Setup (Windows)
 
 1. Install Python 3.15.0 (64-bit) for Windows. Make sure the `py` launcher is available.
-2. Download `oxrender_receiver.py` and `oxrender_config.json` from this repository.
+2. Download the required files:
+   - [oxrender_receiver.py](./oxrender_receiver.py)
+   - [oxrender_config.json](./oxrender_config.json) from this repository.
+     
 3. Put both files in the same folder. Add your own API key to the config only if you use background removal.
 4. Open PowerShell and run:
 
