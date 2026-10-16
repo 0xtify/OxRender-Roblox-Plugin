@@ -6,7 +6,7 @@ Install the plugin: [OxRender on Roblox](https://create.roblox.com/store/asset/7
 
 ## Python Downloads
 
-Choose the download for your operating system. Windows is recommended for the OxRender setup instructions below.
+Choose the download for your operating system.
 
 - Windows: [Download Python Install Manager](https://www.python.org/downloads/latest/pymanager/)
 - macOS: [Download macOS installer](https://www.python.org/ftp/python/3.15.0/python-3.15.0-macos11.pkg)
@@ -14,12 +14,9 @@ Choose the download for your operating system. Windows is recommended for the Ox
 
 ## Setup (Windows)
 
-1. Install Python 3.15.0 (64-bit) for Windows. Make sure the `py` launcher is available.
-2. Download the required files:
-   - [oxrender_receiver.py](./oxrender_receiver.py)
-   - [oxrender_config.json](./oxrender_config.json) from this repository.
-     
-3. Put both files in the same folder. Add your own API key to the config only if you use background removal.
+1. Install Python 3.15.0 (64-bit) for Windows and make sure the `py` launcher is available.
+2. Download [oxrender_receiver.py](./oxrender_receiver.py) and [oxrender_config.json](./oxrender_config.json) from this repository.
+3. Put both files in the same folder. Add your own API key to the configuration if you use background removal.
 4. Open PowerShell and run:
 
    ```powershell
@@ -38,6 +35,6 @@ Choose the download for your operating system. Windows is recommended for the Ox
 
 PNG renders are saved in `Pictures\OxRenderExports`.
 
-To find the exact path of a saved image, open Roblox Studio and enable View > Output. Capture or export a render, then look for the `[OxRender]` message containing the saved image's full path. You can copy that path to find the image in File Explorer.
+To find the exact image location, open Roblox Studio and enable View > Output. Capture or export a render, then find the `[OxRender]` message containing the saved image's full path. Copy the path into File Explorer to locate your image.
 
 That's it! Enjoy OxRender.
