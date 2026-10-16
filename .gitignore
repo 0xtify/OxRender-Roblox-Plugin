@@ -215,6 +215,7 @@ tempCodeRunnerFile.py
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+oxrender_config.json
 
 # Streamlit
 .streamlit/secrets.toml
