@@ -2,13 +2,13 @@
 
 Create Roblox renders with custom camera controls, lighting, particles, and PNG export.
 
-**Install the plugin:** [OxRender on Roblox](https://create.roblox.com/store/asset/78347126888023/OxRender)
+Install the plugin: [OxRender on Roblox](https://create.roblox.com/store/asset/78347126888023/OxRender)
 
 ## Setup
 
-1. Install [Python 3.15.0 (64-bit)](https://www.python.org/downloads/release/python-3150/) for Windows. Make sure the `py` launcher is installed. (Scroll all the way down until you find the Installer Package)
-2. Download `oxrender_receiver.py` and `oxrender_config.json` from this repository.
-3. Put both files in the same folder. Add your own API key if using background removal.
+1. Install the [Python Install Manager for Windows](https://www.python.org/downloads/latest/pymanager/). Follow the installation instructions and install a Python runtime.
+2. Download [oxrender_receiver.py](oxrender_receiver.py) and [oxrender_config.json](oxrender_config.json) from this repository.
+3. Put both files in the same folder. Add your own API key to the configuration if you use background removal.
 4. Open PowerShell and run:
 
    ```powershell
