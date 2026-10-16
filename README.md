@@ -6,7 +6,7 @@ Create Roblox renders with custom camera controls, lighting, particles, and PNG 
 
 ## Setup
 
-1. Install [Python 3.15.0 (64-bit)](https://www.python.org/downloads/release/python-3150/) for Windows. Make sure the `py` launcher is installed.
+1. Install [Python 3.15.0 (64-bit)](https://www.python.org/downloads/release/python-3150/) for Windows. Make sure the `py` launcher is installed. (Scroll all the way down until you find the Installer Package)
 2. Download `oxrender_receiver.py` and `oxrender_config.json` from this repository.
 3. Put both files in the same folder. Add your own API key if using background removal.
 4. Open PowerShell and run:
