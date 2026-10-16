@@ -1,0 +1,9 @@
+
+{
+  "background_removal_provider": "removebg",
+  "photoroom_api_key": "PASTE_YOUR_PHOTOROOM_API_KEY_HERE",
+  "photoroom_despill": true,
+  "clipdrop_api_key": "PASTE_YOUR_CLIPDROP_API_KEY_HERE",
+  "removebg_api_key": "PASTE_YOUR_REMOVEBG_API_KEY_HERE",
+  "removebg_size": "preview"
+}
